@@ -145,6 +145,7 @@ SpectralGPT+ (100 epochs) | [download](https://zenodo.org/records/8412455/files/
 
 ## Acknowledgements
 Pretrain and downstream classification codes from this repository are inspired by the Masked Autoencoders (MAE) [repository](https://github.com/facebookresearch/mae) and SatMAE [repository](https://github.com/sustainlab-group/SatMAE). The downstream pixel-level codes from this repository are inspired by Seasonal Contrast (SeCo) [repository](https://github.com/ServiceNow/seasonal-contrast) and Fully Convolutional Siamese Networks for Change Detection [repository](https://github.com/rcdaudt/fully_convolutional_change_detection).
+-- should work similarly to these in a setup sense if have run the above or something similar before
 
 ## Citation
 If you found our project helpful, please kindly cite our paper:
